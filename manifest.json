@@ -1,7 +1,7 @@
 {
   "name": "Gmail",
   "short_name": "Gmail",
-  "start_url": "index.html",
+  "start_url": "index.html, gm.html",
   "display": "standalone",
   "background_color": "#1e88e5",
   "description": "Gmail",
